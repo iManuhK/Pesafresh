@@ -49,4 +49,4 @@ zipp==3.19.2; python_version >= '3.8'
 zope.event==5.0; python_version >= '3.7'
 zope.interface==6.4.post2; python_version >= '3.7'
 python-dotenv==1.0.1; python_version >= '3.8'
-dotenv==1.0.1
+# dotenv==1.0.1
